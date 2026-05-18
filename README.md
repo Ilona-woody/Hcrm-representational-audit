@@ -27,9 +27,9 @@ This repository contains the data, anchor sets, and analysis scripts used in the
 │   ├── Electrician_Representation_Comparison_final.xlsx
 │   └── Massage_Therapist_Representation_Comparison_final.xlsx
 └── esco/
-    ├── domestic_electrician_ESCO_23_2_2026.pdf
-    ├── animal_groomer_ESCO_23_2_2026.pdf
-    └── massage_therapist_ESCO_23_2_2026.pdf
+    ├── domestic_electrician_ESCO.pdf
+    ├── animal_groomer_ESCO.pdf
+    └── massage_therapist_ESCO.pdf
 ```
 
 ---
