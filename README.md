@@ -144,6 +144,18 @@ py sensitivity_analysis.py Dog_Groomer_Representation_Comparison_final.xlsx Elec
 - `sensitivity_ranking_table.csv`
 
 ---
+### descriptor_length.py
+Utility script that computes descriptor length statistics (word count) for each occupational representation system. Reports median, mean, min, max, and percentile word counts per system, providing quantitative documentation of the textual granularity differences between ESCO skill labels, O*NET Work Activities, and RPDC vocational standards reported in Section VII of the paper.
+**Usage:**
+py descriptor_length.py OccupationName_Representation_Comparison_final.xlsx
+Output:
+
+Printed to console
+*_descriptor_length_stats.xlsx — full statistics table saved automatically in the same folder
+
+Run once per occupation file.
+
+---
 
 ## Preprocessing Rules
 
