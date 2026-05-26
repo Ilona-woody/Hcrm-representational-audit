@@ -21,15 +21,16 @@ This repository contains the data, anchor sets, and analysis scripts used in the
 ├── scripts/
 │   ├── 4pillar_compareall.py                         Core embedding and similarity script
 │   ├── compare_jobs.py                               Results aggregation script
-│   └── sensitivity_analysis.py                       Robustness and sensitivity analysis
+│   ├── sensitivity_analysis.py                       Robustness and sensitivity analysis
+│   └── descriptor_length.py                          Descriptor length statistics utility
 ├── data/
 │   ├── Dog_Groomer_Representation_Comparison_final.xlsx
 │   ├── Electrician_Representation_Comparison_final.xlsx
 │   └── Massage_Therapist_Representation_Comparison_final.xlsx
 └── esco/
-    ├── domestic_electrician_ESCO.pdf
-    ├── animal_groomer_ESCO.pdf
-    └── massage_therapist_ESCO.pdf
+    ├── domestic_electrician_ESCO_23_2_2026.pdf
+    ├── animal_groomer_ESCO_23_2_2026.pdf
+    └── massage_therapist_ESCO_23_2_2026.pdf
 ```
 
 ---
